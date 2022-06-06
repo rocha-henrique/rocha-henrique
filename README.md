@@ -10,8 +10,10 @@
 ##
 
 <div align='center'>
-<a href="https://github.com/rocha-henrique/github-readme-stats"><img height="165em" alt="Henrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rocha-henrique&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/rocha-henrique/github-readme-stats"><img height="165em" alt="Henrique's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-henrique&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/rocha-henrique"><img src="https://github-readme-stats.vercel.app/api?username=rocha-henrique&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="rocha-henrique's GitHub stats" /></a>
+<a href="http://www.github.com/rocha-henrique"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rocha-henrique&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/rocha-henrique"><img src="https://activity-graph.herokuapp.com/graph?username=rocha-henrique&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img height="165em" alt="Henrique's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-henrique&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&custom_title=GitHub%20Commits%20Graph"/></a>
 </div>
 
 ##
