@@ -2,10 +2,20 @@
 
 <div id='lojc' align="center">
 
-          
 | Tools  | Languages | Frameworks  | Technologies |   
 |---|---|---|---|
 |<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" class="devicon-github-original" title="" alt="J" width="30" height="30" background-color="white"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="J" width="30" height="30" />&nbsp;&nbsp;<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="J" width="30" height="30" alt="JQuery"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="" alt="J" width="30" height="30"/></div></div>| 
+
+##
+
+<div>
+	<h3 align="center">
+		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
+		 My Soft Skills 
+		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+	<h3>
+	<h4 align="center">Creativity, leadership, communication, collaboration, emotional intelligence, critical thinking<h4>
+</div>
 
 ##
 
