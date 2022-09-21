@@ -20,16 +20,8 @@
 ##
 
 <div align='center'>	
-<a href="http://www.github.com/rocha-henrique"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=rocha-henrique&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="rocha-henrique's GitHub stats" /></a>
-<a href="http://www.github.com/rocha-henrique"><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rocha-henrique&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-<img heigt="165em" alt="Henrique's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-henrique&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
 <a href="https://github.com/rocha-henrique/trybe-exercicios" align="left"><img width="465px" heigth="200em" src="https://github-readme-stats.vercel.app/api/pin/?username=rocha-henrique&repo=trybe-exercicios&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 	
-##
-	
-<a href="http://www.github.com/rocha-henrique"><img src="https://activity-graph.herokuapp.com/graph?username=rocha-henrique&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</div>
-
 ##
 
 ![Snake animation](https://github.com/rocha-henrique/rocha-henrique/blob/output/github-contribution-grid-snake.svg)
