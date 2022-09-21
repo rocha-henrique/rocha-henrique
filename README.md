@@ -8,17 +8,6 @@
 
 ##
 
-<div>
-	<h3 align="center">
-		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
-		 My Soft Skills 
-		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
-	<h3>
-	<h4 align="center">Creativity, leadership, communication, collaboration, emotional intelligence, critical thinking<h4>
-</div>
-
-##
-
 <div align='center'>	
 <a href="https://github.com/rocha-henrique/trybe-exercicios" align="left"><img width="465px" heigth="200em" src="https://github-readme-stats.vercel.app/api/pin/?username=rocha-henrique&repo=trybe-exercicios&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 	
