@@ -31,12 +31,3 @@
 <div align="center">  
   <a href="https://www.instagram.com/henrique.rocha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/henrique-rocha-394295161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
-
-## Views and Followers
-<div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=rocha-henrique&style=for-the-badge&color=f97316&labelColor=000000">
-	</a><a href="https://www.github.com/rocha-henrique" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rocha-henrique?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-</div> 
-
-
